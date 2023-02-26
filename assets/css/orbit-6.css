@@ -256,7 +256,9 @@ p {
 .skillset .theme-progress-bar {
   background: #5f8697;
 }
-
+.skillset .theme-progress-bar-special {
+  background: #79CDCD;
+}
 .footer {
   padding: 30px;
   padding-top: 60px;
